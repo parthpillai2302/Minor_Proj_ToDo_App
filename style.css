@@ -1,0 +1,26 @@
+body {
+    margin: 0;/*  Removes any default margin around the body */
+    height: 100vh; /* Ensures the body takes up the full viewport height */
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 75), rgb(1, 76, 30));
+    background-size: cover; /* Ensures the gradient stretches to cover the entire body */
+    background-repeat: no-repeat; /* Prevents the gradient from repeating */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Brush Script MT', 'Cursive';
+}
+input{
+    font-size: 20px;
+}
+.options *, .checks,button{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#box1{
+    margin: 20px;
+    padding: 5px 20px 20px 20px;
+    background-color: white;
+    border-radius: 20px;
+}   
