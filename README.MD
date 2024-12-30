@@ -4,4 +4,4 @@ This is made for the sake of practice of both frontend and getting familiar with
 
 This was created from local system.
 
-Created by Parth Pillai
+Created by Parth Pillai.

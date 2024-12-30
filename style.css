@@ -13,7 +13,7 @@ body {
 input{
     font-size: 20px;
 }
-.options *, .checks,button{
+.wholeTasks *, .checks,button{
     font-size: 20px;
     cursor: pointer;
 }
